@@ -1,0 +1,48 @@
+## Ignore build output and user-specific files
+bin/
+obj/
+*.user
+*.suo
+
+## Visual Studio
+.vscode/
+*.code-workspace
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Logs
+*.log
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## Rider
+.idea/
+
+## Backup and temporary files
+*.tmp
+*.bak
+*.swp
+*~ 
+
+## Auto-generated files
+Generated_Code/
+
+## Visual Studio temporary files
+*.dbmdl
+*.psess
+*.vsp
+*.vspx
+*.vsmdi
+_TestResults/
+*.TestResults
+
+## Others
+.env
