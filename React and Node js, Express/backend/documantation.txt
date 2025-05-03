@@ -1,0 +1,3 @@
+ npm i mongoose
+ 
+ npm install mongoose-sequence --> Mongoose schema to use auto-increment
